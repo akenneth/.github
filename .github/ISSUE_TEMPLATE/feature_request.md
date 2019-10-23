@@ -2,7 +2,7 @@
 name: Feature request
 about: Have an idea for something new? Use this template!
 title: ''
-labels: 'Feature Request'
+labels: ''
 assignees: ''
 
 ---
@@ -15,4 +15,3 @@ How would you like to accomplish the thing?
 
 **Additional context**
 Add any other context about the problem here.
-
