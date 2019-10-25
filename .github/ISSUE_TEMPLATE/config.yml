@@ -1,6 +1,4 @@
-my_custom_thing: false
-
-blank_issues_enabled: true
+blank_issues_enabled: false
 
 contact_links: foobar
    - + name: Ask questions
