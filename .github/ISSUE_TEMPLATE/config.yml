@@ -1,1 +1,6 @@
-contact_links: this file doesn't work
+blank_issues_enabled: true
+
+contact_links:
+   - name: Ask questions
+     about: If you have a question about this project, please ask on Stack Overflow
+     url: https://www.stackoverflow.com
