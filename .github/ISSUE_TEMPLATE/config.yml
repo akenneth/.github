@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 
-contact_links:
+contact_links: foobar
    - name: Ask questions
      about: If you have a question about this project, please ask on Stack Overflow
      url: https://www.stackoverflow.com
